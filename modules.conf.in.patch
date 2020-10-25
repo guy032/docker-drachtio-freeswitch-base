@@ -117,15 +117,29 @@
  #languages/mod_managed
  #languages/mod_perl
  #languages/mod_python
-@@ -136,7 +137,7 @@
- loggers/mod_console
- #loggers/mod_graylog2
- loggers/mod_logfile
+@@ -139,20 +140,20 @@
 -loggers/mod_syslog
 +#loggers/mod_syslog
  #loggers/mod_raven
  #say/mod_say_de
  say/mod_say_en
+ #say/mod_say_es
+ #say/mod_say_es_ar
+ #say/mod_say_fa
+ #say/mod_say_fr
+-#say/mod_say_he
++say/mod_say_he
+ #say/mod_say_hr
+ #say/mod_say_hu
+ #say/mod_say_it
+ #say/mod_say_ja
+ #say/mod_say_nl
+ #say/mod_say_pl
+ #say/mod_say_pt
+ #say/mod_say_ru
+ #say/mod_say_sv
+ #say/mod_say_th
+ #say/mod_say_zh
 @@ -158,12 +159,12 @@
  #say/mod_say_zh
  #timers/mod_posix_timer
